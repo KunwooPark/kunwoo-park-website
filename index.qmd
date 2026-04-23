@@ -29,11 +29,11 @@ I am a PhD student researcher working in photonics and related areas. A fuller b
 
 ## Research Interests
 
-- Research interest 1
-- Research interest 2
-- Research interest 3
-- Research interest 4
-- Research interest 5
+- Optical Computing
+- Disordered Photonics
+- Topological Photonics
+- Open Quantum Systems
+- AI for Science
 
 ## Research Overview
 
@@ -41,14 +41,14 @@ Add a short research overview here. This section can summarize your broader agen
 
 ## Selected Directions
 
-### Experimental Photonic Systems
+### Hypergraph Models of Scattering for Accelerating Material Design
 
 Add 2-3 sentences here describing one representative direction or project area.
 
-### Optical Computing
+### Monolayer Non-Abelian Integrated Photonics via Floquet Engineering
 
 Add 2-3 sentences here describing another research direction, method, or long-term goal.
 
-### Quantum and Data-Driven Modeling
+### Expressivity and Trainability of All-Optical Neural Networks
 
 Add 2-3 sentences here describing a third direction, collaboration area, or modeling theme.
