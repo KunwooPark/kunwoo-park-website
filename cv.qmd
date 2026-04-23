@@ -4,15 +4,15 @@ title: "CV"
 
 ## Curriculum Vitae
 
-[Email for CV (PDF)](mailto:imotdnif43@snu.ac.kr){.cv-button}
+[Download CV (PDF)](files/your-cv.pdf){.cv-button}
 
-A downloadable PDF can be added here later. For now, the button links directly by email.
+Replace this link with your actual CV PDF when ready.
 
 ## Education
 
-- PhD student in Electrical and Computer Engineering, Seoul National University
-- Affiliated with the Intelligent Wave Systems Laboratory
-- Additional degree details can be added here later if you want the page to function as a fuller CV summary
+- PhD in Field, University, expected year
+- MS in Field, University, year
+- BS in Field, University, year
 
 ## Research Interests
 
@@ -24,11 +24,11 @@ A downloadable PDF can be added here later. For now, the button links directly b
 
 ## Selected Publications
 
-1. **Kyuho Kim, Kunwoo Park, Hyungchul Park, Sunkyu Yu, Namkyoo Park, and Xianji Piao**, "Programmable photonic unitary circuits for light computing," *Nanophotonics* (2025).
-2. **Kunwoo Park, Ikbeom Lee, Seungmok Youn, and Sunkyu Yu**, "Modularization of light scattering for photonic computing applications," *Proceedings of SPIE* (2025).
-3. **Kunwoo Park, Ikbeom Lee, and Sunkyu Yu**, "Inverse Design Method of Hyperuniform Materials using System Factorization," *CLEO-PR 2024* (2024).
+1. **Author list**, "Paper title," *Venue* (year).
+2. **Author list**, "Paper title," *Venue* (year).
+3. **Author list**, "Paper title," *Venue* (year).
 
 ## Awards and Honors
 
-- Public award information has not been added yet.
-- This section can be updated with fellowships, scholarships, travel awards, or honors later.
+- Award or honor, year
+- Fellowship, scholarship, or travel award, year

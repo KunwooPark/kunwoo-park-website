@@ -21,36 +21,34 @@ about:
 
 ## Kunwoo Park
 
-PhD student in integrated photonics, quantum optics, and optical computing.
+PhD student researcher
 
-I am a PhD student working at the intersection of photonic hardware, quantum optical systems, and computation with complex physical media. My research focuses on building reliable experimental platforms, improving alignment and control in photonic systems, and exploring how optical dynamics can be used for learning and information processing. I am particularly interested in problems where careful physical modeling and practical instrumentation meet scalable computational ideas.
+Affiliation: Intelligent Wave Systems Laboratory, Department of Electrical and Computer Engineering, Seoul National University
 
-I am currently affiliated with the Intelligent Wave Systems Laboratory in the Department of Electrical and Computer Engineering at Seoul National University. My recent work spans programmable photonic circuits, scattering-based optical computing, and inverse design methods for complex optical media.
+I am a PhD student researcher working in photonics and related areas. A fuller biography can be added here later with a short overview of academic background, current research focus, and broader interests.
 
 ## Research Interests
 
-- Integrated photonics and fiber-to-chip interfacing
-- Quantum optics and Hong-Ou-Mandel interference
-- Optical computing with nonlinear and scattering media
-- Experimental automation and control for photonic platforms
-- Surrogate modeling for open quantum systems
+- Research interest 1
+- Research interest 2
+- Research interest 3
+- Research interest 4
+- Research interest 5
 
 ## Research Overview
 
-My current work spans both experimental and computational aspects of photonics. On the experimental side, I am interested in robust alignment, calibration, and automation methods for interferometric and chip-scale optical systems. On the computational side, I study how nonlinear optical dynamics, disordered scattering, and reduced-order models can support efficient inference, learning, and scientific understanding.
-
-These directions are connected by a shared goal: making complex optical systems more controllable, more informative, and more useful as research tools and computing substrates.
+Add a short research overview here. This section can summarize your broader agenda, how your projects connect, and what kinds of systems, questions, or methods you focus on.
 
 ## Selected Directions
 
 ### Experimental Photonic Systems
 
-I work on improving the reliability of alignment-sensitive optical platforms, including HOM interferometers and multi-channel fiber-to-chip interfaces. This includes automation strategies that reduce manual tuning and make experiments more reproducible.
+Add 2-3 sentences here describing one representative direction or project area.
 
 ### Optical Computing
 
-I study how optical systems can perform computation through physical propagation, interference, scattering, and nonlinear response. The aim is to better understand when these systems provide practical computational advantages and how they can be modeled effectively.
+Add 2-3 sentences here describing another research direction, method, or long-term goal.
 
 ### Quantum and Data-Driven Modeling
 
-I am also interested in surrogate and reduced-order approaches for open quantum systems, especially when direct simulation is expensive. These tools can help connect physical intuition, experimental data, and scalable prediction.
+Add 2-3 sentences here describing a third direction, collaboration area, or modeling theme.
